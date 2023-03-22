@@ -75,4 +75,4 @@ Download the app from the link that is given on the terminal.
   <img src="./assets/halaman2.jpeg" width=200>
 
 - Halaman 3
-  <img src="./assets/halaman3.jpeg.jpeg" width=200>
+  <img src="./assets/halaman3.jpeg" width=200>
